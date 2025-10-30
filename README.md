@@ -9,7 +9,7 @@ The app allows users to browse products, add them to the cart, and checkout secu
 
 ## 🚀 Live Demo
 
-* **Frontend (Vercel):** [https://cart-ecru-sigma.vercel.app](https://cart-ecru-sigma.vercel.app)
+* ** (Vercel):** [https://cart-ecru-sigma.vercel.app](https://cart-ecru-sigma.vercel.app)
 
 
 ---
